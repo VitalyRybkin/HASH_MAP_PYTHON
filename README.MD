@@ -1,0 +1,1 @@
+My Python implementation of Hash map whit hash-function
